@@ -26,13 +26,66 @@ Grading Policy
 
 Students are expected to attend all classes, keep up with the associated readings, and actively participate in class. In order to incentivize students to keep up with the readings, there may be several reading quizzes given in random lectures. There will also be one in-class midterm and a take home final paper assignment given one week prior to the last class and which will be due on the last class day; there will be no exam in the finals period. Grades will be calculated by the following components:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Reading Quizzes | 10% |
-| Midterm | 30% |
-| Nuclear Policy Simulation Paper and Exercise | 20% |
-| Final Paper | 30% |
-| Class Participation | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reading Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Nuclear Policy Simulation Paper and Exercise
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Paper
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For more detailed information, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
 
@@ -55,29 +108,331 @@ Additional readings can be found in the [Readings]({{< baseurl >}}/pages/reading
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Class Overview | &nbsp; |
-| 2 | Nuclear Weapons – Why They Matter Today | &nbsp; |
-| 3 | The Second World War, the Manhattan Project, and the Decision to Drop the Bomb | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} Second Generation Nuclear Powers {{< br >}}{{< br >}} _Guest Lecturer: [Professor Vipin Narang](http://web.mit.edu/polisci/people/faculty/vipin-narang.html), Associate Professor of Political Science, MIT_ {{< br >}}{{< br >}}  | &nbsp; |
-| 5 | The Birth of the Nuclear Age – Nuclear Deterrence | &nbsp; |
-| 6 | Nuclear Weapons and the Early Cold War | &nbsp; |
-| 7 | Nuclear Proliferation and Nonproliferation, Part I | &nbsp; |
-| 8 | The Origins of Overkill | &nbsp; |
-| 9 | The Berlin Crisis and Nuclear Weapons | &nbsp; |
-| 10 | The Cuban Missile Crisis | &nbsp; |
-| 11 | Détente and the Origins of Nuclear Arms Control | &nbsp; |
-| 12 | The Nuclear Nonproliferation Treaty | &nbsp; |
-| 13 | Nuclear Proliferation and Nonproliferation, Part II | &nbsp; |
-| 14 | The Nuclear Balance and Nuclear Strategy | &nbsp; |
-| 15 | Mid-term | &nbsp; |
-| 16 | The 1970s: Proliferation Pressures, Strategy Debates | &nbsp; |
-| 17 | How to Study / Think about Nuclear Dynamics | &nbsp; |
-| 18 | {{< h 3 >}}Screening: [Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb](http://www.imdb.com/title/tt0057012/?ref_=fn_al_tt_1). Directed by Stanley Kubrick. Black and White, 95 min. 1964.{{< /h >}} | &nbsp; |
-| 19 | Nuclear Weapons and the End of the Cold War | &nbsp; |
-| 20 | Nuclear Dynamics after the Cold War: Rogue States, Terrorism, and Great Power Politics | &nbsp; |
-| 21 | Global Zero? | &nbsp; |
-| 22 | Nuclear Policy Simulation |  {{< br >}}{{< br >}} Nuclear Policy Simulation paper due {{< br >}}{{< br >}} Take Home Final Paper assignment handed out {{< br >}}{{< br >}}  |
-| 23 |  {{< br >}}{{< br >}} Centrifuges – Technology and History {{< br >}}{{< br >}} _Guest lecturer: [R. Scott Kemp](http://lnsp.mit.edu/r-scott-kemp/), Assistant Professor of Nuclear Science and Engineering, MIT_ {{< br >}}{{< br >}}  | &nbsp; |
-| 24 | The Future of Nuclear Dynamics and Policy | Final paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Class Overview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear Weapons – Why They Matter Today
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The Second World War, the Manhattan Project, and the Decision to Drop the Bomb
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Second Generation Nuclear Powers
+
+_Guest Lecturer: [Professor Vipin Narang](http://web.mit.edu/polisci/people/faculty/vipin-narang.html), Associate Professor of Political Science, MIT_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+The Birth of the Nuclear Age – Nuclear Deterrence
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear Weapons and the Early Cold War
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear Proliferation and Nonproliferation, Part I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The Origins of Overkill
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The Berlin Crisis and Nuclear Weapons
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+The Cuban Missile Crisis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Détente and the Origins of Nuclear Arms Control
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+The Nuclear Nonproliferation Treaty
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear Proliferation and Nonproliferation, Part II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+The Nuclear Balance and Nuclear Strategy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Mid-term
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+The 1970s: Proliferation Pressures, Strategy Debates
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+How to Study / Think about Nuclear Dynamics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Screening: [Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb](http://www.imdb.com/title/tt0057012/?ref_=fn_al_tt_1). Directed by Stanley Kubrick. Black and White, 95 min. 1964.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear Weapons and the End of the Cold War
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear Dynamics after the Cold War: Rogue States, Terrorism, and Great Power Politics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Global Zero?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear Policy Simulation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Nuclear Policy Simulation paper due
+
+Take Home Final Paper assignment handed out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Centrifuges – Technology and History
+
+_Guest lecturer: [R. Scott Kemp](http://lnsp.mit.edu/r-scott-kemp/), Assistant Professor of Nuclear Science and Engineering, MIT_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+The Future of Nuclear Dynamics and Policy
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
