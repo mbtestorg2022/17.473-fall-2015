@@ -122,7 +122,7 @@ The Birth of the Nuclear Age – Nuclear Deterrence
 {{< tdopen >}}
 
 
-Brodie, Bernard. "The Weapon: War in the Atomic Age," and "Implications for Military Policy." Chapters 1 and 2 in ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_The Absolute Weapon: Atomic Power and World Order__. (PDF - 10MB)_](https://www.osti.gov/opennet/servlets/purl/16380564-wvLB09/16380564.pdf) Edited by Bernard Brodie, Arnold Wolfers, et al.
+Brodie, Bernard. "The Weapon: War in the Atomic Age," and "Implications for Military Policy." Chapters 1 and 2 in [_The Absolute Weapon: Atomic Power and World Order__. (PDF - 10MB)_](https://www.osti.gov/opennet/servlets/purl/16380564-wvLB09/16380564.pdf) Edited by Bernard Brodie, Arnold Wolfers, et al.
 
 \*_The above readings are from a preliminary draft of the book and has marginalia from General Dwight D. Eisenhower_.
 
@@ -348,7 +348,7 @@ How to Study / Think about Nuclear Dynamics
 
 \[T\] Chapter 7: Making Sense of the Nuclear Age.
 
-Gavin, Francis J. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["What We Talk About When We Talk About Nuclear Weapons: A Review Essay." (PDF)](http://issforum.org/ISSF/PDF/ISSF-Forum-2.pdf) _H-Diplo/ISSF Forum_, no. 2 (2014).
+Gavin, Francis J. ["What We Talk About When We Talk About Nuclear Weapons: A Review Essay." (PDF)](http://issforum.org/ISSF/PDF/ISSF-Forum-2.pdf) _H-Diplo/ISSF Forum_, no. 2 (2014).
 
 ———. "['What We Do, and Why it Matters: A Response to FKS' (A Response to H-Diplo/ISSF Forum on 'What We Talk About When We Talk About Nuclear Weapons.'](https://networks.h-net.org/node/28443/discussions/32070/%E2%80%9Cwhat-we-do-and-why-it-matters-response-fks%E2%80%9D-response-h-diploissf)." H-Diplo, June 18, 2014.
 
@@ -462,7 +462,7 @@ Nuclear Policy Simulation
 
 [NSAM 335: Preparation of Arms Control Program](https://www.discoverlbj.org/item/nsf-nsam336). June 28, 1965.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["National Strategy to Combat Weapons of Mass Destruction." (PDF)](http://www.state.gov/documents/organization/16092.pdf) December 2002.
+["National Strategy to Combat Weapons of Mass Destruction." (PDF)](http://www.state.gov/documents/organization/16092.pdf) December 2002.
 
 "[V. Prevent Our Enemies from Threatening Us, Our Allies, and Our Friends with Weapons of Mass Destruction](http://georgewbush-whitehouse.archives.gov/nsc/nss/2002/nss5.html)." President Bush, West Point, New York, June 1, 2002.
 

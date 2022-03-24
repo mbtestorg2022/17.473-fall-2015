@@ -34,7 +34,7 @@ While researching and writing your paper, look at the two National Security Memo
 
 Compare with these two official statements by the Bush administration:
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)](http://www.state.gov/documents/organization/16092.pdf)["National Strategy to Combat Weapons of Mass Destruction." (PDF)](https://fas.org/irp/offdocs/nspd/nspd-wmd.pdf) December 2002.
+[](http://www.state.gov/documents/organization/16092.pdf)["National Strategy to Combat Weapons of Mass Destruction." (PDF)](https://fas.org/irp/offdocs/nspd/nspd-wmd.pdf) December 2002.
 
 "[V. Prevent Our Enemies from Threatening Us, Our Allies, and Our Friends with Weapons of Mass Destruction](http://georgewbush-whitehouse.archives.gov/nsc/nss/2002/nss5.html)." President Bush, West Point, New York, June 1, 2002.
 
